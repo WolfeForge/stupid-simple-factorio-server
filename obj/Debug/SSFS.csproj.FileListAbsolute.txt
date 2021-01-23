@@ -1,0 +1,10 @@
+C:\Github\stupid-simple-factorio-server\bin\Debug\SSFS.exe.config
+C:\Github\stupid-simple-factorio-server\bin\Debug\SSFS.exe
+C:\Github\stupid-simple-factorio-server\bin\Debug\SSFS.pdb
+C:\Github\stupid-simple-factorio-server\obj\Debug\SSFS.csprojAssemblyReference.cache
+C:\Github\stupid-simple-factorio-server\obj\Debug\SSFS.Form1.resources
+C:\Github\stupid-simple-factorio-server\obj\Debug\SSFS.Properties.Resources.resources
+C:\Github\stupid-simple-factorio-server\obj\Debug\SSFS.csproj.GenerateResource.cache
+C:\Github\stupid-simple-factorio-server\obj\Debug\SSFS.csproj.CoreCompileInputs.cache
+C:\Github\stupid-simple-factorio-server\obj\Debug\SSFS.exe
+C:\Github\stupid-simple-factorio-server\obj\Debug\SSFS.pdb
