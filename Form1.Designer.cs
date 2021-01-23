@@ -112,7 +112,7 @@ namespace SSFS
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(310, 37);
             this.button1.TabIndex = 11;
-            this.button1.Text = "MAKE";
+            this.button1.Text = "Next";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -154,7 +154,7 @@ namespace SSFS
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(451, 217);
+            this.ClientSize = new System.Drawing.Size(434, 217);
             this.Controls.Add(this.textBox5);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.textBox4);
