@@ -8,3 +8,4 @@ C:\Github\stupid-simple-factorio-server\obj\Debug\SSFS.csproj.GenerateResource.c
 C:\Github\stupid-simple-factorio-server\obj\Debug\SSFS.csproj.CoreCompileInputs.cache
 C:\Github\stupid-simple-factorio-server\obj\Debug\SSFS.exe
 C:\Github\stupid-simple-factorio-server\obj\Debug\SSFS.pdb
+C:\Github\stupid-simple-factorio-server\obj\Debug\SSFS.Form2.resources

@@ -105,7 +105,17 @@ namespace SSFS
             txt.WriteLine("\"maximum_segment_size_peer_count\": 10");
             txt.WriteLine("}");
             txt.Close();
-            Application.Exit();
+            Form2 form2 = new Form2
+            {
+                Location = this.Location,
+                StartPosition = FormStartPosition.Manual
+            };
+            Form2 frm2 = form2;
+            form2.FormClosing += delegate { Application.Exit(); };
+            form2.Show();
+            this.Hide();
+
+            
         }
     }
 }
